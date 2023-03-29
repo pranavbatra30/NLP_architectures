@@ -37,4 +37,4 @@ References:
 [17] Berger, A., Pietra, S. D., & Pietra, V. D. (1996). A maximum entropy approach to natural language processing. Computational Linguistics, 22(1), 39-71. https://www.aclweb.org/anthology/J96-1002/
 
 
-![image](https://user-images.githubusercontent.com/70062137/228675737-7135c9bf-1cbc-4028-9a72-73d493085b8d.png)
+
